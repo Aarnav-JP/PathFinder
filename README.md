@@ -1,3 +1,8 @@
+This is PathFinder which uses dijkstra's Single source shortest path algorithm to shortest distance between two points when some restrictions are provided to it.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
